@@ -1,0 +1,28 @@
+
+    body {
+        text-align: center;
+        
+       
+         }
+         .inp{
+            background-color: chartreuse;
+         }
+         .add{
+            background-color: brown;
+            color: white;
+         }
+         .edit{
+            background-color: blue;
+            color: white;
+         }
+         
+         .btn{
+            background-color: brown;
+            margin: 5px;
+            color: white;
+
+         }
+         .btn1{
+            background-color: blueviolet;
+            color: white;
+         }
